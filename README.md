@@ -3,7 +3,8 @@
 
 ## TRABALHO  
 ## DE
-PROGRAMAÇÃO ORIENTADA A OBJETOS
+## PROGRAMAÇÃO ORIENTADA A OBJETOS 
+## QUESTÕES 1 Á 3
 =============================
    
 
@@ -58,5 +59,3 @@ Os únicos momentos em que o finally não será chamado são:
  *  [Throw ](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/throw)
  *  [Finally](https://www.guj.com.br/t/finally/75238)
   *  [Throws](https://www.guj.com.br/t/throw-e-throws/39358)
-
-
